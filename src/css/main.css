@@ -1,0 +1,64 @@
+.main{
+    position: absolute;
+    top: 130px;
+    left: 150px;
+    display: flex;
+}
+
+.headings{
+    /* font-family: Poppins; */
+    font-size: 95px;
+    font-weight: 890;
+    line-height: 92px;
+    letter-spacing: 5px;
+    text-align: left;
+    /* width: 595px; */
+    /* height: 306px; */
+
+}
+
+.main-para{
+    /* font-family: Poppins; */
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 404px;
+    height: 91px;
+    color: rgba(90, 89, 89, 1);
+    margin-top: 25px;
+}
+
+.buttons{
+    margin-top:25px
+}
+
+.shop-button{
+    margin-right:40px;
+    background-color: rgba(208, 28, 40, 1);
+    color: rgba(255, 255, 255, 1);
+    width: 143px;
+    height: 37px;
+    font-family: Inter;
+    font-size: 23px;
+    font-weight: 600;
+    border: none;
+}
+
+.category-button{
+    background: none;
+    color: rgba(90, 89, 89, 1);
+    width: 143px;
+    height: 37px;
+    font-family: Inter;
+    font-size: 23px;
+    font-weight: 600;
+    /* border: none; */
+    border-color: rgba(90, 89, 89, 1);
+}
+
+.shop-name{
+    margin-top: 30px
+
+}
