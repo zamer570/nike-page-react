@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/nike-page-react/static/css/main.272e7492.css",
+    "main.js": "/nike-page-react/static/js/main.63dbe912.js",
+    "static/js/787.8d1bdda8.chunk.js": "/nike-page-react/static/js/787.8d1bdda8.chunk.js",
+    "static/media/shoe_image.png": "/nike-page-react/static/media/shoe_image.751b69c312c2a6cc5074.png",
+    "static/media/logo.svg": "/nike-page-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nike-page-react/index.html",
+    "main.272e7492.css.map": "/nike-page-react/static/css/main.272e7492.css.map",
+    "main.63dbe912.js.map": "/nike-page-react/static/js/main.63dbe912.js.map",
+    "787.8d1bdda8.chunk.js.map": "/nike-page-react/static/js/787.8d1bdda8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.272e7492.css",
+    "static/js/main.63dbe912.js"
+  ]
+}
